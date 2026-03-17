@@ -6,8 +6,8 @@
 <img align="right" alt="CaiqueEmote" height="150em" src="https://media.discordapp.net/attachments/566718831800746040/1483455678294130810/Eu.png?ex=69baa742&is=69b955c2&hm=dca764c583eb58b4a7326fdafb1d26270444cf9973cc9b4f0b6a502fadc068c8&=&format=webp&quality=lossless" />
 
  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KykNevz&show_icons=true&theme=radical&include_all_comits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyknevz&layout=compact&lags_count=16&theme=radical" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KykNevz&show_icons=true&theme=radical&include_all_comits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyknevz&layout=compact&lags_count=16&theme=radical" />
  </div>
 
 <div style="display: inline_block"><br>
